@@ -1,5 +1,6 @@
 async function reverseGeocode(lat, lng) {
  if (!process.env.GOOGLE_API_KEY) {
+      console.log("🚀 ~ process.env.GOOGLE_API_KEY:", process.env.GOOGLE_API_KEY)
       throw new Error("Missing Google API Key in backend environment");
     }
     const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${lat},${lng}&key=${process.env.GOOGLE_API_KEY}`;
