@@ -39,8 +39,6 @@ async function getById(homeId) {
 async function add(home) {
   try {
     if (home.loc && home.loc.lat && home.loc.lng && !home.loc.city) {
-      console.log('🗺️ Adding location data for home...')
-
       const locationData = await geocodeService.reverseGeocode(
         home.loc.lat,
         home.loc.lng
@@ -92,7 +90,6 @@ async function remove(homeId) {
 
 function _buildCriteria(filterBy) {
   const criteria = {}
-
   if (filterBy.city)
     criteria['loc.city'] = { $regex: filterBy.city, $options: 'i' }
   if (filterBy.capacity) criteria.capacity = { $gte: Number(filterBy.capacity) }

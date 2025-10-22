@@ -30,8 +30,6 @@ async function query(filterBy = {}) {
 async function getById(userId) {
   try {
     const criteria = { _id: ObjectId.createFromHexString(userId) }
-    console.log(criteria)
-
     const collection = await dbService.getCollection('users')
     const user = await collection.findOne(criteria)
     return user
@@ -83,7 +81,6 @@ async function update(user) {
   try {
     const userToSave = { ...user }
     delete userToSave._id
-
     const collection = await dbService.getCollection('users')
     await collection.updateOne(
       { _id: new ObjectId(user._id) },
@@ -100,7 +97,6 @@ async function toggleHomeLike(userId, homeId) {
   try {
     const collection = await dbService.getCollection('users')
     const user = await collection.findOne({ _id: new ObjectId(userId) })
-
     if (!user) throw new Error('User not found')
     if (!user.likedHomes) user.likedHomes = []
 
@@ -114,9 +110,7 @@ async function toggleHomeLike(userId, homeId) {
     } else {
       updateOperation = { $addToSet: { likedHomes: homeId } }
     }
-
     await collection.updateOne({ _id: new ObjectId(userId) }, updateOperation)
-
     return !isCurrentlyLiked
   } catch (err) {
     loggerService.error('userService[toggleHomeLike]:', err)

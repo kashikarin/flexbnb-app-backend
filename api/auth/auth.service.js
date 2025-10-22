@@ -1,7 +1,6 @@
 import bcrypt from 'bcrypt'
 import Cryptr from 'cryptr'
 import { OAuth2Client } from 'google-auth-library'
-import { userService } from '../user/user.service.js'
 import { dbService } from '../../services/db.service.js'
 import { uploadService } from '../../services/upload.service.js'
 const cryptr = new Cryptr(process.env.SECRET1 || 'Secret-Puk-1234')
@@ -147,21 +146,13 @@ async function googleAuth({ credential }) {
 
     let cloudinaryImageUrl = null
     if (payload.picture) {
-      console.log('🖼️ Found Google image:', payload.picture) 
-
       try {
-        console.log('📤 Starting upload to Cloudinary...') 
-
-        console.log('Uploading Google profile image to Cloudinary...')
         cloudinaryImageUrl = await uploadService.uploadImageFromUrl(
           payload.picture,
           `google_user_${payload.sub}`
         )
-        console.log('✅ Upload successful:', cloudinaryImageUrl) 
       } catch (uploadError) {
         console.error('Failed to upload Google image:', uploadError)
-        console.log('❌ Upload failed:', uploadError) 
-
         cloudinaryImageUrl = payload.picture
       }
     }

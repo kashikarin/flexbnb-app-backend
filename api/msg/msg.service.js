@@ -9,8 +9,6 @@ export const msgService = {
   add,
   update,
   remove
-  // addCarMsg,
-  // removeCarMsg,
 }
 
 async function query(filterBy = {}) {

@@ -67,7 +67,6 @@ export async function removeOrder(req, res) {
 }
 
 export async function updateOrder(req, res) {
-  console.log('update order controller runs!')
   const order = req.body
   try {
     const oldOrder = await orderService.getById(order._id)  
