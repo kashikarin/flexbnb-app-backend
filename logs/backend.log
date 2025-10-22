@@ -4987,3 +4987,4 @@
 22.10.2025, 11:54:13 - ERROR - Cannot Connect to DB | MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
 22.10.2025, 11:54:13 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
 22.10.2025, 11:54:13 - ERROR - cannot find homes | MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+22.10.2025, 12:55:23 - INFO - New connected socket [id: a0AvPJFoZZbkf4a1AAAB]
