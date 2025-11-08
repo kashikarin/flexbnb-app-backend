@@ -5582,3 +5582,1428 @@
 4.11.2025, 15:06:32 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
 4.11.2025, 15:06:34 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
 4.11.2025, 15:06:34 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 2X1EDbFskwZ-5x-rAABX]
+4.11.2025, 16:04:50 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 16:04:51 - INFO - New connected socket [id: Dp8w3pvzaOFjw0V0AAAB]
+4.11.2025, 16:04:52 - INFO - New connected socket [id: ijOc60OQEPinfTepAAAD]
+4.11.2025, 16:04:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ijOc60OQEPinfTepAAAD]
+4.11.2025, 16:04:53 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 16:04:53 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Dp8w3pvzaOFjw0V0AAAB]
+4.11.2025, 16:08:08 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:08:10 - INFO - New connected socket [id: 1F54mcrAVKLA34QxAAAF]
+4.11.2025, 16:08:10 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 1F54mcrAVKLA34QxAAAF]
+4.11.2025, 16:08:10 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 1F54mcrAVKLA34QxAAAF]
+4.11.2025, 16:08:41 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:08:43 - INFO - New connected socket [id: HVcNhFaZ6Y8CATxrAAAH]
+4.11.2025, 16:08:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: HVcNhFaZ6Y8CATxrAAAH]
+4.11.2025, 16:08:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: HVcNhFaZ6Y8CATxrAAAH]
+4.11.2025, 16:09:36 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:09:38 - INFO - New connected socket [id: wiuKVY5N9XieNWrLAAAJ]
+4.11.2025, 16:09:38 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: wiuKVY5N9XieNWrLAAAJ]
+4.11.2025, 16:09:38 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: wiuKVY5N9XieNWrLAAAJ]
+4.11.2025, 16:10:01 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:10:03 - INFO - New connected socket [id: CLWc5UKnVjDzGTd2AAAL]
+4.11.2025, 16:10:03 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: CLWc5UKnVjDzGTd2AAAL]
+4.11.2025, 16:10:03 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: CLWc5UKnVjDzGTd2AAAL]
+4.11.2025, 16:10:32 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:10:34 - INFO - New connected socket [id: S2FxYZyCxJd-oWSTAAAN]
+4.11.2025, 16:10:34 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: S2FxYZyCxJd-oWSTAAAN]
+4.11.2025, 16:10:34 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: S2FxYZyCxJd-oWSTAAAN]
+4.11.2025, 16:10:45 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:10:47 - INFO - New connected socket [id: TMpjBNP6qeJpNavBAAAP]
+4.11.2025, 16:10:47 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: TMpjBNP6qeJpNavBAAAP]
+4.11.2025, 16:10:47 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: TMpjBNP6qeJpNavBAAAP]
+4.11.2025, 16:11:37 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:11:39 - INFO - New connected socket [id: H4xOnEK2eBv-xvsoAAAR]
+4.11.2025, 16:11:39 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: H4xOnEK2eBv-xvsoAAAR]
+4.11.2025, 16:11:39 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: H4xOnEK2eBv-xvsoAAAR]
+4.11.2025, 16:11:53 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:11:55 - INFO - New connected socket [id: xT1grnqcHWPJasNfAAAT]
+4.11.2025, 16:11:55 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: xT1grnqcHWPJasNfAAAT]
+4.11.2025, 16:11:55 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: xT1grnqcHWPJasNfAAAT]
+4.11.2025, 16:23:53 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 16:23:59 - INFO - New connected socket [id: 2nUczgZXXqajroJyAAAV]
+4.11.2025, 16:23:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 2nUczgZXXqajroJyAAAV]
+4.11.2025, 16:23:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 2nUczgZXXqajroJyAAAV]
+4.11.2025, 16:53:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 16:58:17 - INFO - Removing socket.userId for socket [id: xT1grnqcHWPJasNfAAAT]
+4.11.2025, 17:01:23 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+4.11.2025, 17:01:24 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+4.11.2025, 17:01:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: xT1grnqcHWPJasNfAAAT]
+4.11.2025, 17:01:26 - INFO - Removing socket.userId for socket [id: xT1grnqcHWPJasNfAAAT]
+4.11.2025, 17:09:03 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+4.11.2025, 17:09:03 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+4.11.2025, 17:09:03 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: xT1grnqcHWPJasNfAAAT]
+4.11.2025, 17:09:06 - INFO - Removing socket.userId for socket [id: xT1grnqcHWPJasNfAAAT]
+4.11.2025, 17:09:28 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:09:30 - INFO - New connected socket [id: aH6VTBwAklX-DRtoAAAX]
+4.11.2025, 17:09:32 - INFO - New connected socket [id: YTDyQIx_Z2ntBytMAAAZ]
+4.11.2025, 17:09:39 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+4.11.2025, 17:09:40 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+4.11.2025, 17:09:40 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: YTDyQIx_Z2ntBytMAAAZ]
+4.11.2025, 17:09:44 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:09:45 - INFO - New connected socket [id: UZStwBgHfNYful0cAAAb]
+4.11.2025, 17:09:45 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: UZStwBgHfNYful0cAAAb]
+4.11.2025, 17:09:46 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: UZStwBgHfNYful0cAAAb]
+4.11.2025, 17:10:15 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:34:36 - INFO - Removing socket.userId for socket [id: UZStwBgHfNYful0cAAAb]
+4.11.2025, 17:35:38 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:35:38 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:37:03 - INFO - New connected socket [id: VU-SslDcFZhxBSDUAAAd]
+4.11.2025, 17:47:50 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:47:52 - INFO - New connected socket [id: GyD4zHMgWYcifSmXAAAf]
+4.11.2025, 17:54:59 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:55:01 - INFO - New connected socket [id: VYckDIhx95s2o6QcAAAh]
+4.11.2025, 17:59:07 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:59:09 - INFO - New connected socket [id: HKXsgFhzVb7ptjmHAAAj]
+4.11.2025, 17:59:39 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 17:59:40 - INFO - New connected socket [id: 1yEoiMwBP5OkfdYhAAAl]
+4.11.2025, 18:18:07 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+4.11.2025, 18:18:07 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+4.11.2025, 18:18:07 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 1yEoiMwBP5OkfdYhAAAl]
+4.11.2025, 18:23:27 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 18:23:29 - INFO - New connected socket [id: XaHPp7I_F3uYi35nAAAn]
+4.11.2025, 18:23:30 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: XaHPp7I_F3uYi35nAAAn]
+4.11.2025, 18:23:30 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: XaHPp7I_F3uYi35nAAAn]
+4.11.2025, 18:50:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:51:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:51:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:51:21 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:51:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:51:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:52:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:52:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:52:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:53:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:53:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:53:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+4.11.2025, 18:56:21 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 18:56:23 - INFO - New connected socket [id: o1arA-HJXsez5m3jAAAp]
+4.11.2025, 18:56:23 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: o1arA-HJXsez5m3jAAAp]
+4.11.2025, 18:56:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: o1arA-HJXsez5m3jAAAp]
+4.11.2025, 18:57:45 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 18:57:47 - INFO - New connected socket [id: 7ARPlFJnTbNtjbazAAAr]
+4.11.2025, 18:57:47 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 7ARPlFJnTbNtjbazAAAr]
+4.11.2025, 18:57:48 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 7ARPlFJnTbNtjbazAAAr]
+4.11.2025, 21:53:59 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 21:54:02 - INFO - New connected socket [id: n3uVhfHaayVEB1N3AAAt]
+4.11.2025, 21:54:03 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: n3uVhfHaayVEB1N3AAAt]
+4.11.2025, 21:54:04 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: n3uVhfHaayVEB1N3AAAt]
+4.11.2025, 21:54:16 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 21:54:18 - INFO - New connected socket [id: idpGweNcl_PBU5HRAAAv]
+4.11.2025, 21:54:18 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: idpGweNcl_PBU5HRAAAv]
+4.11.2025, 21:54:19 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: idpGweNcl_PBU5HRAAAv]
+4.11.2025, 21:54:27 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 21:54:28 - INFO - New connected socket [id: CxX1sKAkRtlvgcdXAAAx]
+4.11.2025, 21:54:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: CxX1sKAkRtlvgcdXAAAx]
+4.11.2025, 21:54:30 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: CxX1sKAkRtlvgcdXAAAx]
+4.11.2025, 21:55:26 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 21:55:28 - INFO - New connected socket [id: LrzgwmTrkuLxB-klAAAz]
+4.11.2025, 21:55:28 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: LrzgwmTrkuLxB-klAAAz]
+4.11.2025, 21:55:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: LrzgwmTrkuLxB-klAAAz]
+4.11.2025, 21:56:13 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 21:56:15 - INFO - New connected socket [id: WE52WeqApizfWh7fAAA1]
+4.11.2025, 21:56:16 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: WE52WeqApizfWh7fAAA1]
+4.11.2025, 21:56:16 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: WE52WeqApizfWh7fAAA1]
+4.11.2025, 23:32:48 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:32:51 - INFO - New connected socket [id: cZMe24923VtU7rhTAAA3]
+4.11.2025, 23:32:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cZMe24923VtU7rhTAAA3]
+4.11.2025, 23:32:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cZMe24923VtU7rhTAAA3]
+4.11.2025, 23:33:21 - INFO - Removing socket.userId for socket [id: cZMe24923VtU7rhTAAA3]
+4.11.2025, 23:33:40 - INFO - /api/auth | POST | {"email":"kkk@gmail.com","password":"kk"} | {}
+4.11.2025, 23:33:40 - ERROR - Failed to Login Error: Incorrect password
+4.11.2025, 23:33:47 - INFO - /api/auth | POST | {"email":"karinkashi@gmail.com","password":"kk"} | {}
+4.11.2025, 23:33:47 - ERROR - Failed to Login Error: Username not found
+4.11.2025, 23:33:58 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+4.11.2025, 23:33:59 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+4.11.2025, 23:33:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cZMe24923VtU7rhTAAA3]
+4.11.2025, 23:35:59 - INFO - Removing socket.userId for socket [id: cZMe24923VtU7rhTAAA3]
+4.11.2025, 23:36:07 - INFO - /api/auth | POST | {"email":"kkk@gmail.com","password":"kk"} | {}
+4.11.2025, 23:36:07 - ERROR - Failed to Login Error: Incorrect password
+4.11.2025, 23:36:09 - INFO - /api/auth | POST | {"email":"kkk@gmail.com","password":"kkk"} | {}
+4.11.2025, 23:36:09 - INFO - User login:  | {"_id":"68d31470714f672a02170d07","email":"kkk@gmail.com","username":"kkk","fullname":"karin kashi","imageUrl":"https://res.cloudinary.com/dse2v78fc/image/upload/v1758663782/fd73dqyj0ujzr06z1hum.jpg","isHost":false,"isAdmin":false,"likedHomes":[],"createdAt":1758663792837}
+4.11.2025, 23:36:09 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: cZMe24923VtU7rhTAAA3]
+4.11.2025, 23:36:22 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:36:25 - INFO - New connected socket [id: h7dwyz5XYJ1LFweyAAA5]
+4.11.2025, 23:36:25 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: h7dwyz5XYJ1LFweyAAA5]
+4.11.2025, 23:36:26 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: h7dwyz5XYJ1LFweyAAA5]
+4.11.2025, 23:52:10 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:52:12 - INFO - New connected socket [id: 4tgIY4w9ozj8VE6ZAAA7]
+4.11.2025, 23:52:12 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: 4tgIY4w9ozj8VE6ZAAA7]
+4.11.2025, 23:52:14 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: 4tgIY4w9ozj8VE6ZAAA7]
+4.11.2025, 23:54:49 - INFO - Socket disconnected [id: undefined]
+4.11.2025, 23:54:52 - INFO - New connected socket [id: xqgw6UJnrwXkHH4DAAA9]
+4.11.2025, 23:54:53 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: xqgw6UJnrwXkHH4DAAA9]
+4.11.2025, 23:54:53 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: xqgw6UJnrwXkHH4DAAA9]
+5.11.2025, 10:56:41 - INFO - New connected socket [id: SpVG8uRV6Rg9RzqLAAA_]
+5.11.2025, 10:56:41 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: SpVG8uRV6Rg9RzqLAAA_]
+5.11.2025, 10:56:41 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: SpVG8uRV6Rg9RzqLAAA_]
+5.11.2025, 10:56:52 - INFO - New connected socket [id: FQqpXovUdxfVoYIgAABB]
+5.11.2025, 10:56:52 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: FQqpXovUdxfVoYIgAABB]
+5.11.2025, 10:56:52 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: FQqpXovUdxfVoYIgAABB]
+5.11.2025, 11:36:46 - INFO - New connected socket [id: 6PlkEmS1CcnoqA_ZAAAD]
+5.11.2025, 11:36:46 - INFO - New connected socket [id: xBLdcdXzVndtCyX8AAAE]
+5.11.2025, 11:36:46 - INFO - New connected socket [id: Ttgg-yYCQY8Md6J8AAAF]
+5.11.2025, 11:36:46 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: 6PlkEmS1CcnoqA_ZAAAD]
+5.11.2025, 11:36:46 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: xBLdcdXzVndtCyX8AAAE]
+5.11.2025, 11:36:46 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: Ttgg-yYCQY8Md6J8AAAF]
+5.11.2025, 11:37:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:37:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:37:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:37:29 - INFO - New connected socket [id: TzUEJ2dAVtMtNScWAAAH]
+5.11.2025, 11:37:30 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: TzUEJ2dAVtMtNScWAAAH]
+5.11.2025, 11:37:31 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: TzUEJ2dAVtMtNScWAAAH]
+5.11.2025, 11:39:15 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:39:15 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:39:16 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:39:20 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:41:31 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:41:33 - INFO - New connected socket [id: VS8SulaiKFeHwrlTAAAJ]
+5.11.2025, 11:41:33 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: VS8SulaiKFeHwrlTAAAJ]
+5.11.2025, 11:41:33 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: VS8SulaiKFeHwrlTAAAJ]
+5.11.2025, 11:41:41 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:41:42 - INFO - New connected socket [id: sxIGpTsLAk0rthRoAAAL]
+5.11.2025, 11:41:43 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: sxIGpTsLAk0rthRoAAAL]
+5.11.2025, 11:41:43 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: sxIGpTsLAk0rthRoAAAL]
+5.11.2025, 11:42:55 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:42:56 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:42:56 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:49:24 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:49:27 - INFO - New connected socket [id: YjD-AKKLmVwGCIJlAAAN]
+5.11.2025, 11:49:28 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:49:29 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: YjD-AKKLmVwGCIJlAAAN]
+5.11.2025, 11:49:29 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:49:29 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: YjD-AKKLmVwGCIJlAAAN]
+5.11.2025, 11:49:29 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:50:58 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:51:37 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:51:43 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:51:48 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:51:49 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:51:49 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 11:52:22 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:52:37 - INFO - New connected socket [id: Stc6G3s099cwucikAAAP]
+5.11.2025, 11:52:43 - INFO - Removing socket.userId for socket [id: Stc6G3s099cwucikAAAP]
+5.11.2025, 11:52:51 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+5.11.2025, 11:52:51 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+5.11.2025, 11:52:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Stc6G3s099cwucikAAAP]
+5.11.2025, 11:52:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:52:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:54:12 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:54:14 - INFO - New connected socket [id: Bm_sKJCxWN6ElwNuAAAR]
+5.11.2025, 11:54:14 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Bm_sKJCxWN6ElwNuAAAR]
+5.11.2025, 11:54:15 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Bm_sKJCxWN6ElwNuAAAR]
+5.11.2025, 11:54:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:54:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:54:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:55:04 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:55:06 - INFO - New connected socket [id: kHnXMIs9ZvGZ27z0AAAT]
+5.11.2025, 11:55:07 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: kHnXMIs9ZvGZ27z0AAAT]
+5.11.2025, 11:55:07 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: kHnXMIs9ZvGZ27z0AAAT]
+5.11.2025, 11:55:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:55:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:55:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:58:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:58:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:58:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:58:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:58:33 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 11:58:35 - INFO - New connected socket [id: ckaGqVDmHKTUuGYhAAAV]
+5.11.2025, 11:58:35 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ckaGqVDmHKTUuGYhAAAV]
+5.11.2025, 11:58:36 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ckaGqVDmHKTUuGYhAAAV]
+5.11.2025, 11:58:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:58:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 11:58:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:01:47 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:01:50 - INFO - New connected socket [id: RlSX1M_f_9OqMdVUAAAX]
+5.11.2025, 12:01:50 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: RlSX1M_f_9OqMdVUAAAX]
+5.11.2025, 12:01:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: RlSX1M_f_9OqMdVUAAAX]
+5.11.2025, 12:01:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:01:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:01:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:04:21 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:04:22 - INFO - New connected socket [id: ED_XRNOW7p0gi85qAAAZ]
+5.11.2025, 12:04:23 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ED_XRNOW7p0gi85qAAAZ]
+5.11.2025, 12:04:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ED_XRNOW7p0gi85qAAAZ]
+5.11.2025, 12:11:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:48 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:49 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:49 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:56 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:56 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:57 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:57 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:58 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:59 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:11:59 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:00 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:00 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:02 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:02 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:03 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:12:49 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:12:51 - INFO - New connected socket [id: 52_xH6OZFeNhqzv_AAAb]
+5.11.2025, 12:12:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 52_xH6OZFeNhqzv_AAAb]
+5.11.2025, 12:12:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 52_xH6OZFeNhqzv_AAAb]
+5.11.2025, 12:13:12 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:13:13 - INFO - New connected socket [id: 8Jr1ZRbN36852-MjAAAd]
+5.11.2025, 12:13:13 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 8Jr1ZRbN36852-MjAAAd]
+5.11.2025, 12:13:14 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 8Jr1ZRbN36852-MjAAAd]
+5.11.2025, 12:13:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:13:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:14:34 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:14:36 - INFO - New connected socket [id: 3DRbHADtuXqc3nSKAAAf]
+5.11.2025, 12:14:37 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 3DRbHADtuXqc3nSKAAAf]
+5.11.2025, 12:14:37 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 3DRbHADtuXqc3nSKAAAf]
+5.11.2025, 12:15:04 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:15:06 - INFO - New connected socket [id: GYn7czJXAB7z-RriAAAh]
+5.11.2025, 12:15:07 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GYn7czJXAB7z-RriAAAh]
+5.11.2025, 12:15:07 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GYn7czJXAB7z-RriAAAh]
+5.11.2025, 12:15:19 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:15:21 - INFO - New connected socket [id: qgHlXRMdymT5uhUjAAAj]
+5.11.2025, 12:15:21 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: qgHlXRMdymT5uhUjAAAj]
+5.11.2025, 12:15:21 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: qgHlXRMdymT5uhUjAAAj]
+5.11.2025, 12:15:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:15:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:17:32 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:17:34 - INFO - New connected socket [id: hJDgLf7A1RsFE76LAAAl]
+5.11.2025, 12:17:34 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: hJDgLf7A1RsFE76LAAAl]
+5.11.2025, 12:17:34 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: hJDgLf7A1RsFE76LAAAl]
+5.11.2025, 12:18:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:18:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:18:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:18:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:18:20 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:18:22 - INFO - New connected socket [id: GvQk7CrxJuoc8L4uAAAn]
+5.11.2025, 12:18:22 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GvQk7CrxJuoc8L4uAAAn]
+5.11.2025, 12:18:23 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GvQk7CrxJuoc8L4uAAAn]
+5.11.2025, 12:19:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:19:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:23:03 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:23:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:23:09 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:23:11 - INFO - New connected socket [id: hUoqsIFs8zFI4W3WAAAp]
+5.11.2025, 12:23:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: hUoqsIFs8zFI4W3WAAAp]
+5.11.2025, 12:23:12 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: hUoqsIFs8zFI4W3WAAAp]
+5.11.2025, 12:23:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:23:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:23:58 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:23:58 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:23:59 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:24:01 - INFO - New connected socket [id: i1FDGV3vK6vliA_RAAAr]
+5.11.2025, 12:24:01 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: i1FDGV3vK6vliA_RAAAr]
+5.11.2025, 12:24:02 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: i1FDGV3vK6vliA_RAAAr]
+5.11.2025, 12:24:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:24:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:24:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:24:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:24:26 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:24:28 - INFO - New connected socket [id: F0tmMnlLWgEX2CstAAAt]
+5.11.2025, 12:24:28 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: F0tmMnlLWgEX2CstAAAt]
+5.11.2025, 12:24:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: F0tmMnlLWgEX2CstAAAt]
+5.11.2025, 12:24:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:24:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:27:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:27:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:27:58 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:28:01 - INFO - New connected socket [id: LZQ5CGXbK-k7iRzXAAAv]
+5.11.2025, 12:28:02 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:28:02 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: LZQ5CGXbK-k7iRzXAAAv]
+5.11.2025, 12:28:02 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: LZQ5CGXbK-k7iRzXAAAv]
+5.11.2025, 12:28:02 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:31:06 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:31:09 - INFO - New connected socket [id: WgjR7-vKVogSI8-_AAAx]
+5.11.2025, 12:31:09 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: WgjR7-vKVogSI8-_AAAx]
+5.11.2025, 12:31:09 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: WgjR7-vKVogSI8-_AAAx]
+5.11.2025, 12:39:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:39:21 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:39:23 - INFO - New connected socket [id: QioseE1m2_ru7dTfAAAz]
+5.11.2025, 12:39:23 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: QioseE1m2_ru7dTfAAAz]
+5.11.2025, 12:39:23 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: QioseE1m2_ru7dTfAAAz]
+5.11.2025, 12:39:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:39:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:39:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:40:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:40:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:40:41 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:40:43 - INFO - New connected socket [id: 28MgW0HwCpDL_uxMAAA1]
+5.11.2025, 12:40:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 28MgW0HwCpDL_uxMAAA1]
+5.11.2025, 12:40:44 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 28MgW0HwCpDL_uxMAAA1]
+5.11.2025, 12:40:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:40:45 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:40:45 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:40:45 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:22 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:23 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:41:23 - INFO - New connected socket [id: P5mrIsJ3WBeCikPmAAA3]
+5.11.2025, 12:41:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: P5mrIsJ3WBeCikPmAAA3]
+5.11.2025, 12:41:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:41:26 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: P5mrIsJ3WBeCikPmAAA3]
+5.11.2025, 12:41:47 - INFO - Removing socket.userId for socket [id: P5mrIsJ3WBeCikPmAAA3]
+5.11.2025, 12:41:57 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+5.11.2025, 12:41:57 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+5.11.2025, 12:41:57 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: P5mrIsJ3WBeCikPmAAA3]
+5.11.2025, 12:42:02 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:42:02 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:42:04 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:42:06 - INFO - New connected socket [id: sb-w0tyl1mESqmL8AAA5]
+5.11.2025, 12:42:06 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: sb-w0tyl1mESqmL8AAA5]
+5.11.2025, 12:42:06 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: sb-w0tyl1mESqmL8AAA5]
+5.11.2025, 12:42:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:42:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:42:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:42:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:43 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:43:45 - INFO - New connected socket [id: 1POG8hYD6a5QcLavAAA7]
+5.11.2025, 12:43:46 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 1POG8hYD6a5QcLavAAA7]
+5.11.2025, 12:43:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:47 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:43:47 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 1POG8hYD6a5QcLavAAA7]
+5.11.2025, 12:43:47 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:44:41 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:44:44 - INFO - New connected socket [id: Koppo63U9B1qyhYBAAA9]
+5.11.2025, 12:44:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:44:45 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:44:45 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Koppo63U9B1qyhYBAAA9]
+5.11.2025, 12:44:45 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:44:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:44:46 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Koppo63U9B1qyhYBAAA9]
+5.11.2025, 12:49:25 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:49:28 - INFO - New connected socket [id: cU7CM8z_ZL37y1q5AAA_]
+5.11.2025, 12:49:28 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cU7CM8z_ZL37y1q5AAA_]
+5.11.2025, 12:49:28 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cU7CM8z_ZL37y1q5AAA_]
+5.11.2025, 12:49:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:49:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:49:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:49:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:50:13 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:50:15 - INFO - New connected socket [id: 67f5uBW1rNGT4HcFAABB]
+5.11.2025, 12:50:15 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 67f5uBW1rNGT4HcFAABB]
+5.11.2025, 12:50:16 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 67f5uBW1rNGT4HcFAABB]
+5.11.2025, 12:50:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:50:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:50:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:50:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:54:11 - INFO - New connected socket [id: g25fU33dmV7KymZ6AAAB]
+5.11.2025, 12:54:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: g25fU33dmV7KymZ6AAAB]
+5.11.2025, 12:54:33 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 12:54:34 - INFO - New connected socket [id: BTdxvMh8HTA_xOkKAAAD]
+5.11.2025, 12:54:35 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: BTdxvMh8HTA_xOkKAAAD]
+5.11.2025, 12:54:35 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: BTdxvMh8HTA_xOkKAAAD]
+5.11.2025, 12:54:35 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:54:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:54:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:54:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:54:50 - INFO - Removing socket.userId for socket [id: BTdxvMh8HTA_xOkKAAAD]
+5.11.2025, 12:54:59 - INFO - /api/auth | POST | {"email":"kkk@gmail.com","password":"kk"} | {}
+5.11.2025, 12:55:00 - ERROR - Failed to Login Error: Incorrect password
+5.11.2025, 12:55:01 - INFO - /api/auth | POST | {"email":"kkk@gmail.com","password":"kkk"} | {}
+5.11.2025, 12:55:01 - INFO - User login:  | {"_id":"68d31470714f672a02170d07","email":"kkk@gmail.com","username":"kkk","fullname":"karin kashi","imageUrl":"https://res.cloudinary.com/dse2v78fc/image/upload/v1758663782/fd73dqyj0ujzr06z1hum.jpg","isHost":false,"isAdmin":false,"likedHomes":[],"createdAt":1758663792837}
+5.11.2025, 12:55:01 - INFO - Setting socket.userId = 68d31470714f672a02170d07 for socket [id: BTdxvMh8HTA_xOkKAAAD]
+5.11.2025, 12:55:06 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 12:55:06 - INFO - /api/orders | GET |  | {} | 68d31470714f672a02170d07
+5.11.2025, 12:55:16 - INFO - Removing socket.userId for socket [id: BTdxvMh8HTA_xOkKAAAD]
+5.11.2025, 12:55:23 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+5.11.2025, 12:55:24 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+5.11.2025, 12:55:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: BTdxvMh8HTA_xOkKAAAD]
+5.11.2025, 12:55:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:35 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:49 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:55:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:21 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:21 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:22 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:48 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:49 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:49 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 12:58:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:00:10 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:00:13 - INFO - New connected socket [id: 21KNrbrtpPBUrcZcAAAF]
+5.11.2025, 13:00:13 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 21KNrbrtpPBUrcZcAAAF]
+5.11.2025, 13:00:14 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 21KNrbrtpPBUrcZcAAAF]
+5.11.2025, 13:00:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:00:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:08:58 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:09:00 - INFO - New connected socket [id: VtInEAbeEg4s52GXAAAH]
+5.11.2025, 13:09:01 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: VtInEAbeEg4s52GXAAAH]
+5.11.2025, 13:09:01 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: VtInEAbeEg4s52GXAAAH]
+5.11.2025, 13:09:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:09:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:13:03 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:13:05 - INFO - New connected socket [id: GGYruJVLcUkUGf4QAAAJ]
+5.11.2025, 13:13:05 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GGYruJVLcUkUGf4QAAAJ]
+5.11.2025, 13:13:06 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GGYruJVLcUkUGf4QAAAJ]
+5.11.2025, 13:13:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:13:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:13:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:13:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:13:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:13:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:17:09 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:17:11 - INFO - New connected socket [id: -k0iruBlHmDmdKxCAAAL]
+5.11.2025, 13:17:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: -k0iruBlHmDmdKxCAAAL]
+5.11.2025, 13:17:12 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: -k0iruBlHmDmdKxCAAAL]
+5.11.2025, 13:49:35 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:49:38 - INFO - New connected socket [id: JFozNMTO5tmEJi8RAAAN]
+5.11.2025, 13:49:38 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: JFozNMTO5tmEJi8RAAAN]
+5.11.2025, 13:49:38 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: JFozNMTO5tmEJi8RAAAN]
+5.11.2025, 13:50:27 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:50:29 - INFO - New connected socket [id: lADVUt5RiKp52aiVAAAP]
+5.11.2025, 13:50:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: lADVUt5RiKp52aiVAAAP]
+5.11.2025, 13:50:30 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: lADVUt5RiKp52aiVAAAP]
+5.11.2025, 13:51:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:51:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 13:54:13 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:54:15 - INFO - New connected socket [id: bFsck0vii7L3Whm4AAAR]
+5.11.2025, 13:54:15 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: bFsck0vii7L3Whm4AAAR]
+5.11.2025, 13:54:16 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: bFsck0vii7L3Whm4AAAR]
+5.11.2025, 13:56:36 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:56:38 - INFO - New connected socket [id: q-71KZSf8L0yWaDGAAAT]
+5.11.2025, 13:56:38 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: q-71KZSf8L0yWaDGAAAT]
+5.11.2025, 13:56:39 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: q-71KZSf8L0yWaDGAAAT]
+5.11.2025, 13:56:49 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:56:51 - INFO - New connected socket [id: n4mvA1_lqfxf6A0BAAAV]
+5.11.2025, 13:56:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: n4mvA1_lqfxf6A0BAAAV]
+5.11.2025, 13:56:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: n4mvA1_lqfxf6A0BAAAV]
+5.11.2025, 13:56:58 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:57:00 - INFO - New connected socket [id: nSB_nt0jDXChVx8AAAAX]
+5.11.2025, 13:57:00 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: nSB_nt0jDXChVx8AAAAX]
+5.11.2025, 13:57:01 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: nSB_nt0jDXChVx8AAAAX]
+5.11.2025, 13:58:47 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 13:58:49 - INFO - New connected socket [id: DYJ_p6rauf8NFqiGAAAZ]
+5.11.2025, 13:58:49 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: DYJ_p6rauf8NFqiGAAAZ]
+5.11.2025, 13:58:50 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: DYJ_p6rauf8NFqiGAAAZ]
+5.11.2025, 14:01:59 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:01:59 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:04:45 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:04:47 - INFO - New connected socket [id: K3OJyzbcGPSeKG-yAAAb]
+5.11.2025, 14:04:47 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: K3OJyzbcGPSeKG-yAAAb]
+5.11.2025, 14:04:48 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: K3OJyzbcGPSeKG-yAAAb]
+5.11.2025, 14:07:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:07:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:07:29 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:07:31 - INFO - New connected socket [id: Tj3fhlYe1jzt5ljDAAAd]
+5.11.2025, 14:07:31 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Tj3fhlYe1jzt5ljDAAAd]
+5.11.2025, 14:07:32 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Tj3fhlYe1jzt5ljDAAAd]
+5.11.2025, 14:20:53 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:20:55 - INFO - New connected socket [id: EOnYN8FX3k0spTsmAAAf]
+5.11.2025, 14:20:55 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: EOnYN8FX3k0spTsmAAAf]
+5.11.2025, 14:20:56 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: EOnYN8FX3k0spTsmAAAf]
+5.11.2025, 14:24:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:24:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:25:44 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:25:46 - INFO - New connected socket [id: WH27SgAWKu0cx-qrAAAh]
+5.11.2025, 14:25:46 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: WH27SgAWKu0cx-qrAAAh]
+5.11.2025, 14:25:47 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: WH27SgAWKu0cx-qrAAAh]
+5.11.2025, 14:25:47 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:25:47 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:25:48 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:25:48 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:25:51 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:25:53 - INFO - New connected socket [id: ReaFi6rU9NC8GHKRAAAj]
+5.11.2025, 14:25:53 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ReaFi6rU9NC8GHKRAAAj]
+5.11.2025, 14:25:54 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ReaFi6rU9NC8GHKRAAAj]
+5.11.2025, 14:26:29 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:26:31 - INFO - New connected socket [id: 7rQPMyS0QDRNt_W4AAAl]
+5.11.2025, 14:26:31 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 7rQPMyS0QDRNt_W4AAAl]
+5.11.2025, 14:26:32 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 7rQPMyS0QDRNt_W4AAAl]
+5.11.2025, 14:26:56 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:26:58 - INFO - New connected socket [id: oTVpeHyDxka_D0TbAAAn]
+5.11.2025, 14:26:58 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: oTVpeHyDxka_D0TbAAAn]
+5.11.2025, 14:26:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: oTVpeHyDxka_D0TbAAAn]
+5.11.2025, 14:27:05 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:27:07 - INFO - New connected socket [id: MBgFEKZ1QeKYIkIgAAAp]
+5.11.2025, 14:27:07 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: MBgFEKZ1QeKYIkIgAAAp]
+5.11.2025, 14:27:08 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: MBgFEKZ1QeKYIkIgAAAp]
+5.11.2025, 14:27:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:27:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:27:50 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:27:51 - INFO - New connected socket [id: Zy2B08EGhmsRakg2AAAr]
+5.11.2025, 14:27:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Zy2B08EGhmsRakg2AAAr]
+5.11.2025, 14:27:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Zy2B08EGhmsRakg2AAAr]
+5.11.2025, 14:28:10 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:28:11 - INFO - New connected socket [id: BsYjpeh99zYgzw9ZAAAt]
+5.11.2025, 14:28:12 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: BsYjpeh99zYgzw9ZAAAt]
+5.11.2025, 14:28:13 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: BsYjpeh99zYgzw9ZAAAt]
+5.11.2025, 14:28:40 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:28:42 - INFO - New connected socket [id: X2T5a7BmryMNYY1ZAAAv]
+5.11.2025, 14:28:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: X2T5a7BmryMNYY1ZAAAv]
+5.11.2025, 14:28:44 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: X2T5a7BmryMNYY1ZAAAv]
+5.11.2025, 14:30:05 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:30:47 - INFO - New connected socket [id: I8358vpvttnyVLAiAAAx]
+5.11.2025, 14:31:15 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:31:16 - INFO - New connected socket [id: GzDAemctImnyTN1qAAAz]
+5.11.2025, 14:31:16 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GzDAemctImnyTN1qAAAz]
+5.11.2025, 14:31:17 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GzDAemctImnyTN1qAAAz]
+5.11.2025, 14:32:55 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:32:57 - INFO - New connected socket [id: C716ki0ebEFnu2K9AAA1]
+5.11.2025, 14:32:57 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: C716ki0ebEFnu2K9AAA1]
+5.11.2025, 14:32:58 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: C716ki0ebEFnu2K9AAA1]
+5.11.2025, 14:34:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:34:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:37:31 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:37:33 - INFO - New connected socket [id: nhhO-EGsYf2gGcW3AAA3]
+5.11.2025, 14:37:33 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: nhhO-EGsYf2gGcW3AAA3]
+5.11.2025, 14:37:34 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: nhhO-EGsYf2gGcW3AAA3]
+5.11.2025, 14:42:55 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:42:59 - INFO - New connected socket [id: GCVHKEe5RvElytQwAAA5]
+5.11.2025, 14:42:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GCVHKEe5RvElytQwAAA5]
+5.11.2025, 14:42:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GCVHKEe5RvElytQwAAA5]
+5.11.2025, 14:46:40 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:46:42 - INFO - New connected socket [id: 7lZsTYIKWkR0YW9SAAA7]
+5.11.2025, 14:46:42 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 7lZsTYIKWkR0YW9SAAA7]
+5.11.2025, 14:46:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 7lZsTYIKWkR0YW9SAAA7]
+5.11.2025, 14:47:41 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:47:43 - INFO - New connected socket [id: mMUQmRNIyW512UO4AAA9]
+5.11.2025, 14:47:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: mMUQmRNIyW512UO4AAA9]
+5.11.2025, 14:47:44 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: mMUQmRNIyW512UO4AAA9]
+5.11.2025, 14:51:02 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:51:04 - INFO - New connected socket [id: eRv7f7RRBti_0gEYAAA_]
+5.11.2025, 14:51:04 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: eRv7f7RRBti_0gEYAAA_]
+5.11.2025, 14:51:05 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: eRv7f7RRBti_0gEYAAA_]
+5.11.2025, 14:56:57 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:56:57 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 14:56:58 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 14:57:01 - INFO - New connected socket [id: DoF_P5YGb9zEPiVZAABB]
+5.11.2025, 14:57:02 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: DoF_P5YGb9zEPiVZAABB]
+5.11.2025, 14:57:02 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: DoF_P5YGb9zEPiVZAABB]
+5.11.2025, 15:16:33 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:16:35 - INFO - New connected socket [id: VV28sUDAScqAwYcIAABD]
+5.11.2025, 15:16:35 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: VV28sUDAScqAwYcIAABD]
+5.11.2025, 15:16:36 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: VV28sUDAScqAwYcIAABD]
+5.11.2025, 15:16:44 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:16:46 - INFO - New connected socket [id: rsce2yJwZsvXs3jQAABF]
+5.11.2025, 15:16:46 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: rsce2yJwZsvXs3jQAABF]
+5.11.2025, 15:16:46 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: rsce2yJwZsvXs3jQAABF]
+5.11.2025, 15:17:00 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:13 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:17:15 - INFO - New connected socket [id: jj8sI210nEicugI6AABH]
+5.11.2025, 15:17:15 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: jj8sI210nEicugI6AABH]
+5.11.2025, 15:17:15 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: jj8sI210nEicugI6AABH]
+5.11.2025, 15:17:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:17:57 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:18:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:18:10 - INFO - New connected socket [id: 1v1td5R9aV4oKuubAABJ]
+5.11.2025, 15:18:10 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 1v1td5R9aV4oKuubAABJ]
+5.11.2025, 15:18:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:18:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:18:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 1v1td5R9aV4oKuubAABJ]
+5.11.2025, 15:18:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:20:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:20:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:17 - INFO - New connected socket [id: CrJb0o0LR6g49_dxAABL]
+5.11.2025, 15:35:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:18 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: CrJb0o0LR6g49_dxAABL]
+5.11.2025, 15:35:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:18 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: CrJb0o0LR6g49_dxAABL]
+5.11.2025, 15:35:51 - INFO - New connected socket [id: z_CVQmxWx1hqB4P9AABN]
+5.11.2025, 15:35:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: z_CVQmxWx1hqB4P9AABN]
+5.11.2025, 15:35:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: z_CVQmxWx1hqB4P9AABN]
+5.11.2025, 15:35:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:57 - INFO - New connected socket [id: 32gOmpCJjLQTBQ1nAABP]
+5.11.2025, 15:35:57 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:58 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 32gOmpCJjLQTBQ1nAABP]
+5.11.2025, 15:35:58 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 32gOmpCJjLQTBQ1nAABP]
+5.11.2025, 15:35:58 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:59 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:35:59 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:04 - INFO - New connected socket [id: 6NXQXZ8KGVzaAAJQAABR]
+5.11.2025, 15:38:04 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 6NXQXZ8KGVzaAAJQAABR]
+5.11.2025, 15:38:04 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 6NXQXZ8KGVzaAAJQAABR]
+5.11.2025, 15:38:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:07 - INFO - New connected socket [id: e5ezdMBhq5lSWNBdAABT]
+5.11.2025, 15:38:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:08 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: e5ezdMBhq5lSWNBdAABT]
+5.11.2025, 15:38:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:10 - INFO - New connected socket [id: DPlSVfKLqniBe85KAABV]
+5.11.2025, 15:38:10 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: e5ezdMBhq5lSWNBdAABT]
+5.11.2025, 15:38:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: DPlSVfKLqniBe85KAABV]
+5.11.2025, 15:38:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:12 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: DPlSVfKLqniBe85KAABV]
+5.11.2025, 15:38:18 - INFO - New connected socket [id: 4ehuZTQAX3MtRXJ6AABX]
+5.11.2025, 15:38:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:19 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 4ehuZTQAX3MtRXJ6AABX]
+5.11.2025, 15:38:19 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 4ehuZTQAX3MtRXJ6AABX]
+5.11.2025, 15:38:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:21 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:21 - INFO - New connected socket [id: axlA6_cFlvgzXxHiAABZ]
+5.11.2025, 15:38:22 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:22 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: axlA6_cFlvgzXxHiAABZ]
+5.11.2025, 15:38:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: axlA6_cFlvgzXxHiAABZ]
+5.11.2025, 15:38:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:24 - INFO - New connected socket [id: qBzNxJZzGGAF8Ws5AABb]
+5.11.2025, 15:38:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:26 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: qBzNxJZzGGAF8Ws5AABb]
+5.11.2025, 15:38:27 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: qBzNxJZzGGAF8Ws5AABb]
+5.11.2025, 15:38:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:27 - INFO - New connected socket [id: 9rZIsE6jiUGM-kiFAABd]
+5.11.2025, 15:38:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:38:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 9rZIsE6jiUGM-kiFAABd]
+5.11.2025, 15:38:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 9rZIsE6jiUGM-kiFAABd]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:08 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:10 - INFO - New connected socket [id: SJ_TvIFUpIKX6dKHAABf]
+5.11.2025, 15:50:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: SJ_TvIFUpIKX6dKHAABf]
+5.11.2025, 15:50:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:50:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:50:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:50:12 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: SJ_TvIFUpIKX6dKHAABf]
+5.11.2025, 15:50:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:50:40 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:50:41 - INFO - New connected socket [id: JQBnajO9zkwfaGqbAABh]
+5.11.2025, 15:50:41 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: JQBnajO9zkwfaGqbAABh]
+5.11.2025, 15:50:42 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: JQBnajO9zkwfaGqbAABh]
+5.11.2025, 15:50:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:50:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:50:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:50:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:51:06 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:51:07 - INFO - New connected socket [id: XzNp6ZlVwrEi68QqAABj]
+5.11.2025, 15:51:08 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: XzNp6ZlVwrEi68QqAABj]
+5.11.2025, 15:51:08 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: XzNp6ZlVwrEi68QqAABj]
+5.11.2025, 15:51:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:51:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:51:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:51:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:51:26 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:51:28 - INFO - New connected socket [id: DoXxhChCNyazq3BzAABl]
+5.11.2025, 15:51:28 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: DoXxhChCNyazq3BzAABl]
+5.11.2025, 15:51:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: DoXxhChCNyazq3BzAABl]
+5.11.2025, 15:51:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:51:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:51:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:51:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:52:15 - INFO - New connected socket [id: lN3Uk_9-81NvgnIhAABn]
+5.11.2025, 15:52:15 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: lN3Uk_9-81NvgnIhAABn]
+5.11.2025, 15:52:15 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: lN3Uk_9-81NvgnIhAABn]
+5.11.2025, 15:52:25 - INFO - New connected socket [id: PiWHcR2Fn8UVPUhMAABp]
+5.11.2025, 15:52:25 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: PiWHcR2Fn8UVPUhMAABp]
+5.11.2025, 15:52:25 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: PiWHcR2Fn8UVPUhMAABp]
+5.11.2025, 15:52:28 - INFO - New connected socket [id: LXJJwo2QdQmBNxp8AABr]
+5.11.2025, 15:52:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: LXJJwo2QdQmBNxp8AABr]
+5.11.2025, 15:52:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: LXJJwo2QdQmBNxp8AABr]
+5.11.2025, 15:52:30 - INFO - New connected socket [id: Ep52yhnoEOr3KFOJAABt]
+5.11.2025, 15:52:30 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Ep52yhnoEOr3KFOJAABt]
+5.11.2025, 15:52:30 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Ep52yhnoEOr3KFOJAABt]
+5.11.2025, 15:52:48 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:52:48 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:52:48 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:52:48 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:52:48 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:52:50 - INFO - New connected socket [id: ZuWJ2O-t3VRbEBJnAABv]
+5.11.2025, 15:52:50 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ZuWJ2O-t3VRbEBJnAABv]
+5.11.2025, 15:52:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ZuWJ2O-t3VRbEBJnAABv]
+5.11.2025, 15:52:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:52:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:52:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:52:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:00 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:02 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:03 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:03 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:03 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:03 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:13 - INFO - /api/orders | PUT | {"_id":"68d80e648d8ff140c1a8560b","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68d809ab8d8ff140c1a85606","fullname":"Shimrit","imageUrl":"","email":"Shimrit"},"totalPrice":729.6000000000001,"checkIn":"2025-10-03T00:00:00.000Z","checkOut":"2025-10-05T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad66","name":"London Stay #18","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663437250/o8uutj3t2bvfafvxkr9j.jpg"},"status":"rejected"} | {"orderId":"68d80e648d8ff140c1a8560b"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:13 - INFO - No active socket for user: 68d809ab8d8ff140c1a85606 | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:32 - INFO - /api/orders | PUT | {"_id":"68d2b801d75b99fc34879530","host":{"userId":"68d052f3998c54e8c029efff","fullname":"Idan Bahar","imageUrl":"https://res.cloudinary.com/dmhwyrnly/image/upload/v1758483984/user_profiles/profiles/google_user_108855278567799105353.jpg"},"purchaser":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":"","email":"kk@gmail.com"},"totalPrice":319.20000000000005,"checkIn":"2025-09-24T00:00:00.000Z","checkOut":"2025-09-26T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad5b","name":"London Stay #7","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436204/wzbrvr4mcsuub6gvwbry.jpg"},"status":"approved"} | {"orderId":"68d2b801d75b99fc34879530"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:32 - INFO - Emiting event: order-approved to user: 68cffa1ee68e1ea21bb4a403 socket [id: ZuWJ2O-t3VRbEBJnAABv] | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:53:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:54:02 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:54:03 - INFO - New connected socket [id: 99yVaT02aTTNU8HoAABx]
+5.11.2025, 15:54:03 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 99yVaT02aTTNU8HoAABx]
+5.11.2025, 15:54:04 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 99yVaT02aTTNU8HoAABx]
+5.11.2025, 15:54:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:54:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:54:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:54:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:56:33 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 15:56:35 - INFO - New connected socket [id: 5Xe-J8BPOen4ZFDbAABz]
+5.11.2025, 15:56:35 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 5Xe-J8BPOen4ZFDbAABz]
+5.11.2025, 15:56:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:56:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:56:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:56:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:56:37 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 5Xe-J8BPOen4ZFDbAABz]
+5.11.2025, 15:57:00 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:57:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:57:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:57:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:57:16 - INFO - /api/orders | PUT | {"_id":"68da50d186caae9304fd9f62","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":"","email":"kk@gmail.com"},"totalPrice":957.6000000000001,"checkIn":"2025-09-29T00:00:00.000Z","checkOut":"2025-10-01T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad67","name":"London Stay #19","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436957/ehhcyscwtvxw55mptkok.jpg"},"status":"approved"} | {"orderId":"68da50d186caae9304fd9f62"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:57:16 - INFO - Emiting event: order-approved to user: 68cffa1ee68e1ea21bb4a403 socket [id: 5Xe-J8BPOen4ZFDbAABz] | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:57:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:57:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:59:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 15:59:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:20 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 16:00:21 - INFO - New connected socket [id: BEU9dVYBtv5hpGJxAAB1]
+5.11.2025, 16:00:21 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: BEU9dVYBtv5hpGJxAAB1]
+5.11.2025, 16:00:21 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: BEU9dVYBtv5hpGJxAAB1]
+5.11.2025, 16:00:22 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:22 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:35 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:36 - INFO - /api/orders | PUT | {"_id":"68d906e07f28c1f1a62eeb76","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68cff2457d02ba8a7b37f40a","fullname":"john zoe","imageUrl":"","email":"jz@gmail.com"},"totalPrice":957.6000000000001,"checkIn":"2025-09-29T00:00:00.000Z","checkOut":"2025-10-01T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad67","name":"London Stay #19","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436957/ehhcyscwtvxw55mptkok.jpg"},"status":"approved"} | {"orderId":"68d906e07f28c1f1a62eeb76"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:37 - INFO - No active socket for user: 68cff2457d02ba8a7b37f40a | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:45 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:45 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:47 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:48 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:49 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:49 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:00:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:01:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:01:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:01:48 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:01:49 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:00 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:30 - INFO - /api/orders | PUT | {"_id":"68da50ec9fde08e32e4f1216","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":"","email":"kk@gmail.com"},"totalPrice":957.6000000000001,"checkIn":"2025-09-29T00:00:00.000Z","checkOut":"2025-10-01T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad67","name":"London Stay #19","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436957/ehhcyscwtvxw55mptkok.jpg"},"status":"approved"} | {"orderId":"68da50ec9fde08e32e4f1216"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:30 - INFO - Emiting event: order-approved to user: 68cffa1ee68e1ea21bb4a403 socket [id: BEU9dVYBtv5hpGJxAAB1] | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:39 - INFO - /api/orders | PUT | {"_id":"68d84ef53f5ce81cdbe8d128","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68d809ab8d8ff140c1a85606","fullname":"Shimrit","imageUrl":"","email":"Shimrit"},"totalPrice":533.52,"checkIn":"2025-10-01T00:00:00.000Z","checkOut":"2025-10-03T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68d6a02584015038a4e796b4","name":"yayaya","imageUrl":"https://res.cloudinary.com/dse2v78fc/image/upload/v1758896048/zbu7qdcw5ml19u8hd15j.jpg"},"status":"approved"} | {"orderId":"68d84ef53f5ce81cdbe8d128"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:39 - INFO - No active socket for user: 68d809ab8d8ff140c1a85606 | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 16:02:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:27:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:27:35 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:27:35 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:27:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:27:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:27:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:27:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:27:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:16 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:21 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:22 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:22 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:35 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:35 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:35 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:28:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:18 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:22 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 17:32:24 - INFO - New connected socket [id: j98TN6BS31OspgEUAAB3]
+5.11.2025, 17:32:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: j98TN6BS31OspgEUAAB3]
+5.11.2025, 17:32:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: j98TN6BS31OspgEUAAB3]
+5.11.2025, 17:32:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:38 - INFO - /api/orders | PUT | {"_id":"68d908a71890b0788fb39b1f","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68cff2457d02ba8a7b37f40a","fullname":"john zoe","imageUrl":"","email":"jz@gmail.com"},"totalPrice":957.6000000000001,"checkIn":"2025-09-29T00:00:00.000Z","checkOut":"2025-10-01T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad67","name":"London Stay #19","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436957/ehhcyscwtvxw55mptkok.jpg"},"status":"approved"} | {"orderId":"68d908a71890b0788fb39b1f"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:38 - INFO - No active socket for user: 68cff2457d02ba8a7b37f40a | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:32:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:33:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:33:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:33:51 - INFO - /api/orders | PUT | {"_id":"68da4f4986caae9304fd9f5e","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":"","email":"kk@gmail.com"},"totalPrice":957.6000000000001,"checkIn":"2025-09-29T00:00:00.000Z","checkOut":"2025-10-01T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad67","name":"London Stay #19","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436957/ehhcyscwtvxw55mptkok.jpg"},"status":"approved"} | {"orderId":"68da4f4986caae9304fd9f5e"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:33:51 - INFO - Emiting event: order-approved to user: 68cffa1ee68e1ea21bb4a403 socket [id: j98TN6BS31OspgEUAAB3] | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:33:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:33:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:34:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:34:40 - INFO - /api/orders | PUT | {"_id":"68da50a986caae9304fd9f60","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":"","email":"kk@gmail.com"},"totalPrice":957.6000000000001,"checkIn":"2025-09-29T00:00:00.000Z","checkOut":"2025-10-01T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad67","name":"London Stay #19","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436957/ehhcyscwtvxw55mptkok.jpg"},"status":"approved"} | {"orderId":"68da50a986caae9304fd9f60"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:34:40 - INFO - Emiting event: order-approved to user: 68cffa1ee68e1ea21bb4a403 socket [id: j98TN6BS31OspgEUAAB3] | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:34:40 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:34:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:14 - INFO - /api/orders | PUT | {"_id":"68d8483b3f5ce81cdbe8d115","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68d809ab8d8ff140c1a85606","fullname":"Shimrit","imageUrl":"","email":"Shimrit"},"totalPrice":533.5200000000001,"checkIn":"2025-09-27T00:00:00.000Z","checkOut":"2025-09-29T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68d6a02584015038a4e796b4","name":"yayaya","imageUrl":"https://res.cloudinary.com/dse2v78fc/image/upload/v1758896048/zbu7qdcw5ml19u8hd15j.jpg"},"status":"approved"} | {"orderId":"68d8483b3f5ce81cdbe8d115"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:14 - INFO - No active socket for user: 68d809ab8d8ff140c1a85606 | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:24 - INFO - /api/orders | PUT | {"_id":"68da51579fde08e32e4f1217","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":"","email":"kk@gmail.com"},"totalPrice":957.6000000000001,"checkIn":"2025-09-29T00:00:00.000Z","checkOut":"2025-10-01T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad67","name":"London Stay #19","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436957/ehhcyscwtvxw55mptkok.jpg"},"status":"approved"} | {"orderId":"68da51579fde08e32e4f1217"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:24 - INFO - Emiting event: order-approved to user: 68cffa1ee68e1ea21bb4a403 socket [id: j98TN6BS31OspgEUAAB3] | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:33 - INFO - /api/orders | PUT | {"_id":"68da5870234b2aa908d3a83e","host":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":null},"purchaser":{"userId":"68cffa1ee68e1ea21bb4a403","fullname":"kk","imageUrl":"","email":"kk@gmail.com"},"totalPrice":957.6000000000001,"checkIn":"2025-09-29T00:00:00.000Z","checkOut":"2025-10-01T00:00:00.000Z","guests":{"adults":1,"children":0,"infants":0,"pets":0},"home":{"homeId":"68bf3a7da4e092bac135ad67","name":"London Stay #19","imageUrl":"http://res.cloudinary.com/dmtlr2viw/image/upload/v1663436957/ehhcyscwtvxw55mptkok.jpg"},"status":"approved"} | {"orderId":"68da5870234b2aa908d3a83e"} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:34 - INFO - Emiting event: order-approved to user: 68cffa1ee68e1ea21bb4a403 socket [id: j98TN6BS31OspgEUAAB3] | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:39:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:54:27 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 17:54:29 - INFO - New connected socket [id: AT69vd46qps25wyjAAB5]
+5.11.2025, 17:54:29 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: AT69vd46qps25wyjAAB5]
+5.11.2025, 17:54:30 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: AT69vd46qps25wyjAAB5]
+5.11.2025, 17:54:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:54:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:54:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:56:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:56:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:56:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:57:30 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 17:57:32 - INFO - New connected socket [id: cBGliC1-RBj38GV3AAB7]
+5.11.2025, 17:57:32 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cBGliC1-RBj38GV3AAB7]
+5.11.2025, 17:57:33 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cBGliC1-RBj38GV3AAB7]
+5.11.2025, 17:57:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:57:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 17:57:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:00:36 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:13:43 - INFO - New connected socket [id: NK83eXoUfiorOEa9AAB9]
+5.11.2025, 18:13:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: NK83eXoUfiorOEa9AAB9]
+5.11.2025, 18:13:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: NK83eXoUfiorOEa9AAB9]
+5.11.2025, 18:13:58 - INFO - New connected socket [id: LMuhdeXJaX-fJwu_AAB_]
+5.11.2025, 18:13:58 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: LMuhdeXJaX-fJwu_AAB_]
+5.11.2025, 18:13:58 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: LMuhdeXJaX-fJwu_AAB_]
+5.11.2025, 18:15:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:15:08 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:15:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:21:21 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 18:21:21 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 18:21:21 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 18:21:23 - INFO - New connected socket [id: UVjVo6QgTPUllyw-AACB]
+5.11.2025, 18:21:23 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: UVjVo6QgTPUllyw-AACB]
+5.11.2025, 18:21:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: UVjVo6QgTPUllyw-AACB]
+5.11.2025, 18:21:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:21:24 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:21:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:21:49 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 18:21:51 - INFO - New connected socket [id: gTbbuH5798JvwkS6AACD]
+5.11.2025, 18:21:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: gTbbuH5798JvwkS6AACD]
+5.11.2025, 18:21:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: gTbbuH5798JvwkS6AACD]
+5.11.2025, 18:21:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:21:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 18:21:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 19:58:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 19:58:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 19:58:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:25:46 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 21:25:50 - INFO - New connected socket [id: 4VDFQvuOb3RbqjmWAACF]
+5.11.2025, 21:25:50 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 4VDFQvuOb3RbqjmWAACF]
+5.11.2025, 21:25:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 4VDFQvuOb3RbqjmWAACF]
+5.11.2025, 21:25:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:25:51 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:25:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:27:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:30:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:30:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:30:29 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:30:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:31:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:31:07 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:31:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 21:31:15 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:09:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:09:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:09:10 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:10:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:10:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:10:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:12:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:35:40 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 23:35:43 - INFO - New connected socket [id: 8jLAjheAY0OzUCtuAACH]
+5.11.2025, 23:35:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 8jLAjheAY0OzUCtuAACH]
+5.11.2025, 23:35:43 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 8jLAjheAY0OzUCtuAACH]
+5.11.2025, 23:35:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:35:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:35:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:37:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:37:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:39:01 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:41:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:42:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:42:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:42:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:44:23 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:44:28 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:44:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:44:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:44:56 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:45:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:45:09 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+5.11.2025, 23:45:49 - INFO - Socket disconnected [id: undefined]
+5.11.2025, 23:45:51 - INFO - New connected socket [id: fHmCWN6yD_nhWIC0AACJ]
+5.11.2025, 23:45:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: fHmCWN6yD_nhWIC0AACJ]
+5.11.2025, 23:45:51 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: fHmCWN6yD_nhWIC0AACJ]
+6.11.2025, 9:27:39 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:29:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:29:33 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:29:52 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:34 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:42 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 9:30:44 - INFO - New connected socket [id: uB4XmQw3RlmgRc3fAACL]
+6.11.2025, 9:30:45 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: uB4XmQw3RlmgRc3fAACL]
+6.11.2025, 9:30:45 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: uB4XmQw3RlmgRc3fAACL]
+6.11.2025, 9:30:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:30:45 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:32:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:32:31 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 9:32:57 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:44:48 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:44:51 - INFO - New connected socket [id: AoocQSsWJg7430EVAACN]
+6.11.2025, 10:44:52 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: AoocQSsWJg7430EVAACN]
+6.11.2025, 10:44:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:44:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:44:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:44:54 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: AoocQSsWJg7430EVAACN]
+6.11.2025, 10:45:14 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:45:53 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:45:56 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:46:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:46:17 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:46:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:46:20 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:46:48 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:46:51 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:46:53 - INFO - New connected socket [id: PxymLJmU615gUZw8AACP]
+6.11.2025, 10:46:53 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: PxymLJmU615gUZw8AACP]
+6.11.2025, 10:46:54 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: PxymLJmU615gUZw8AACP]
+6.11.2025, 10:46:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:46:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:46:55 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:21 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:47:23 - INFO - New connected socket [id: NBtMjHmhMmoMArwDAACR]
+6.11.2025, 10:47:25 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: NBtMjHmhMmoMArwDAACR]
+6.11.2025, 10:47:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:25 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:26 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: NBtMjHmhMmoMArwDAACR]
+6.11.2025, 10:47:38 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:47:40 - INFO - New connected socket [id: o6d23lWZMFUq0qoYAACT]
+6.11.2025, 10:47:40 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: o6d23lWZMFUq0qoYAACT]
+6.11.2025, 10:47:41 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: o6d23lWZMFUq0qoYAACT]
+6.11.2025, 10:47:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:41 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:42 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:47 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:47:49 - INFO - New connected socket [id: GkInu2A6RzQ7XA_HAACV]
+6.11.2025, 10:47:49 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GkInu2A6RzQ7XA_HAACV]
+6.11.2025, 10:47:50 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: GkInu2A6RzQ7XA_HAACV]
+6.11.2025, 10:47:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:47:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:49:30 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:49:32 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:49:37 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:49:48 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:49:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:49:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:49:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:49:59 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:50:02 - INFO - New connected socket [id: FP2Bli__J6sOlkCKAACX]
+6.11.2025, 10:50:02 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: FP2Bli__J6sOlkCKAACX]
+6.11.2025, 10:50:03 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: FP2Bli__J6sOlkCKAACX]
+6.11.2025, 10:50:03 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:50:03 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:50:04 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:50:08 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:50:09 - INFO - New connected socket [id: Kc-Ohk9YfTIjPL2xAACZ]
+6.11.2025, 10:50:10 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Kc-Ohk9YfTIjPL2xAACZ]
+6.11.2025, 10:50:10 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Kc-Ohk9YfTIjPL2xAACZ]
+6.11.2025, 10:50:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:50:11 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:50:12 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:52:54 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:52:56 - INFO - New connected socket [id: 4Sx-T2daeO42blblAACb]
+6.11.2025, 10:52:57 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 4Sx-T2daeO42blblAACb]
+6.11.2025, 10:52:58 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 4Sx-T2daeO42blblAACb]
+6.11.2025, 10:53:05 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:53:27 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:53:44 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:53:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:53:50 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:55:07 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 10:55:10 - INFO - New connected socket [id: io9IibCmTTdKznobAACd]
+6.11.2025, 10:55:10 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: io9IibCmTTdKznobAACd]
+6.11.2025, 10:55:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: io9IibCmTTdKznobAACd]
+6.11.2025, 10:55:13 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 10:55:19 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 11:01:55 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 11:06:35 - INFO - New connected socket [id: L_RE7wX_nwq7jUIkAACf]
+6.11.2025, 11:06:46 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 11:06:53 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 11:06:54 - INFO - New connected socket [id: JfCZWCjBSBoxWK8yAACh]
+6.11.2025, 11:06:54 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: JfCZWCjBSBoxWK8yAACh]
+6.11.2025, 11:06:54 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: JfCZWCjBSBoxWK8yAACh]
+6.11.2025, 11:07:06 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 11:07:06 - INFO - New connected socket [id: ZMk5iv3qaDyPW06lAACj]
+6.11.2025, 11:07:06 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ZMk5iv3qaDyPW06lAACj]
+6.11.2025, 11:07:07 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ZMk5iv3qaDyPW06lAACj]
+6.11.2025, 11:07:37 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 11:07:39 - INFO - New connected socket [id: efuTw0jFIhIdSpr6AACl]
+6.11.2025, 11:07:39 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: efuTw0jFIhIdSpr6AACl]
+6.11.2025, 11:07:39 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: efuTw0jFIhIdSpr6AACl]
+6.11.2025, 11:35:05 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 11:35:27 - INFO - New connected socket [id: zwOBIWdMYCEPckkAAACn]
+6.11.2025, 11:35:28 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: zwOBIWdMYCEPckkAAACn]
+6.11.2025, 11:35:28 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: zwOBIWdMYCEPckkAAACn]
+6.11.2025, 11:37:51 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 11:37:52 - INFO - New connected socket [id: 69V7BGC68Z_e3L6xAACp]
+6.11.2025, 11:37:53 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 69V7BGC68Z_e3L6xAACp]
+6.11.2025, 11:37:54 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 69V7BGC68Z_e3L6xAACp]
+6.11.2025, 11:50:42 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 11:50:44 - INFO - New connected socket [id: 6H8CFeFkNblWXBCAAACr]
+6.11.2025, 11:50:44 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 6H8CFeFkNblWXBCAAACr]
+6.11.2025, 11:50:44 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 6H8CFeFkNblWXBCAAACr]
+6.11.2025, 11:51:43 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 11:51:56 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 11:51:58 - INFO - New connected socket [id: R1I3aljK4ymLCTsHAACt]
+6.11.2025, 11:51:58 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: R1I3aljK4ymLCTsHAACt]
+6.11.2025, 11:51:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: R1I3aljK4ymLCTsHAACt]
+6.11.2025, 12:16:26 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+6.11.2025, 12:54:18 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 12:54:21 - INFO - New connected socket [id: 0iCQZDJ7of8pod5sAACv]
+6.11.2025, 12:54:23 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 0iCQZDJ7of8pod5sAACv]
+6.11.2025, 12:54:23 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 0iCQZDJ7of8pod5sAACv]
+6.11.2025, 12:57:55 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 12:58:00 - INFO - New connected socket [id: cqMJxSoHXhwBZWhdAACx]
+6.11.2025, 12:58:00 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cqMJxSoHXhwBZWhdAACx]
+6.11.2025, 12:58:01 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: cqMJxSoHXhwBZWhdAACx]
+6.11.2025, 12:59:08 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 12:59:10 - INFO - New connected socket [id: JAJafQjcg_uu6CRcAACz]
+6.11.2025, 12:59:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: JAJafQjcg_uu6CRcAACz]
+6.11.2025, 12:59:11 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: JAJafQjcg_uu6CRcAACz]
+6.11.2025, 18:57:47 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 18:57:49 - INFO - New connected socket [id: 6XPKtmQ_fsazKUILAAC1]
+6.11.2025, 18:57:49 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 6XPKtmQ_fsazKUILAAC1]
+6.11.2025, 18:57:49 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 6XPKtmQ_fsazKUILAAC1]
+6.11.2025, 19:32:59 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 19:33:02 - INFO - New connected socket [id: Wb7VY3hQDDDtZRG_AAC3]
+6.11.2025, 19:33:02 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Wb7VY3hQDDDtZRG_AAC3]
+6.11.2025, 19:33:03 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: Wb7VY3hQDDDtZRG_AAC3]
+6.11.2025, 19:43:22 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 19:43:24 - INFO - New connected socket [id: ck4Jg_SZkSsZY31EAAC5]
+6.11.2025, 19:43:24 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ck4Jg_SZkSsZY31EAAC5]
+6.11.2025, 19:43:25 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: ck4Jg_SZkSsZY31EAAC5]
+6.11.2025, 19:50:36 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 19:50:38 - INFO - New connected socket [id: CEqJoK9mCKFRHYhZAAC7]
+6.11.2025, 19:50:38 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: CEqJoK9mCKFRHYhZAAC7]
+6.11.2025, 19:50:39 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: CEqJoK9mCKFRHYhZAAC7]
+6.11.2025, 19:55:40 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 19:55:42 - INFO - New connected socket [id: pgbHAsUPuKuiDEsTAAC9]
+6.11.2025, 19:55:42 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: pgbHAsUPuKuiDEsTAAC9]
+6.11.2025, 19:55:42 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: pgbHAsUPuKuiDEsTAAC9]
+6.11.2025, 20:01:12 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 20:01:14 - INFO - New connected socket [id: 6QHUbxXGegIeKgvlAAC_]
+6.11.2025, 20:01:14 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 6QHUbxXGegIeKgvlAAC_]
+6.11.2025, 20:01:15 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: 6QHUbxXGegIeKgvlAAC_]
+6.11.2025, 23:14:56 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 23:14:59 - INFO - New connected socket [id: bukkqpLJPchUm7dLAADB]
+6.11.2025, 23:14:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: bukkqpLJPchUm7dLAADB]
+6.11.2025, 23:14:59 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: bukkqpLJPchUm7dLAADB]
+6.11.2025, 23:15:34 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 23:15:47 - INFO - New connected socket [id: pSYpwJ6cBBK5Hk4cAADD]
+6.11.2025, 23:15:47 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: pSYpwJ6cBBK5Hk4cAADD]
+6.11.2025, 23:15:47 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: pSYpwJ6cBBK5Hk4cAADD]
+6.11.2025, 23:15:54 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 23:28:44 - INFO - New connected socket [id: mvA3ErQ538YYA-EWAADF]
+6.11.2025, 23:55:32 - INFO - Socket disconnected [id: undefined]
+6.11.2025, 23:55:51 - INFO - New connected socket [id: ksuJOb4ptNI51ShoAADH]
+8.11.2025, 9:33:06 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403

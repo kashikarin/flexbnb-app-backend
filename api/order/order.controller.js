@@ -4,11 +4,14 @@ import { socketService } from '../../services/socket.service.js'
 import { orderService } from './order.service.js'
 
 export async function getOrders(req, res) {
-  const loggedInUserId = req.loggedInUser?._id  
+  // const loggedInUserId = req.loggedInUser?._id  
+  const filterOrdersBy = req.query
+  console.log("🚀 ~ req.query:", req.query)
+  // console.log("🚀 ~ filterOrdersBy:", filterOrdersBy)
   try {
-    const filterBy = {
-      hostId: loggedInUserId,
-    }
+    const filterBy = {}
+    if (filterOrdersBy.hostId) filterBy.hostId = new ObjectId(filterOrdersBy.hostId)
+    if (filterOrdersBy.purchaserId) filterBy.purchaserId = new ObjectId(filterOrdersBy.purchaserId)
     const orders = await orderService.query(filterBy)
     res.json(orders)
   } catch (err) {

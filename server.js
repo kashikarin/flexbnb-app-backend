@@ -48,7 +48,7 @@ if (process.env.NODE_ENV === 'production') {
   app.use(cors(corsOptions))
 }
 
-app.all('/*all', setupAsyncLocalStorage)
+app.use(setupAsyncLocalStorage)
 
 app.get('/api/health', (_req, res) => {
   res.json({ ok: true })

@@ -17,6 +17,7 @@ export const orderService = {
 }
 
 async function query(filterBy = {}) {
+  console.log("🚀 ~ filterBy:", filterBy)
   try {
     const criteria = _buildCriteria(filterBy)    
     const collection = await dbService.getCollection('order')
@@ -87,9 +88,11 @@ async function remove(orderId) {
 
 function _buildCriteria(filterBy) {
   const criteria = {}
-  if (!filterBy.hostId || !ObjectId.isValid(filterBy.hostId)) {
-    throw new Error('hostId is required for dashboard queries')
-  }
-  criteria['host.userId'] = new ObjectId(filterBy.hostId)
+  if (filterBy.hostId) criteria['host.userId'] = filterBy.hostId
+  if (filterBy.purchaserId) criteria['purchaser.userId'] = filterBy.purchaserId
+  // if (!filterBy.hostId || !ObjectId.isValid(filterBy.hostId)) {
+  //   throw new Error('hostId is required for dashboard queries')
+  // }
+  
   return criteria
 }
