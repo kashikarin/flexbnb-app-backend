@@ -7047,3 +7047,14 @@
 10.11.2025, 21:06:53 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: TgemGhe9qBLQFRBHAAAJ]
 10.11.2025, 21:06:54 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
 10.11.2025, 21:07:38 - INFO - /api/orders | GET |  | {} | 68cffa1ee68e1ea21bb4a403
+11.11.2025, 14:18:55 - INFO - Socket disconnected [id: undefined]
+11.11.2025, 14:18:56 - INFO - Socket disconnected [id: undefined]
+19.11.2025, 12:43:08 - INFO - New connected socket [id: VT5VK0YAoBbF-FRtAAAB]
+19.11.2025, 12:43:27 - INFO - Removing socket.userId for socket [id: VT5VK0YAoBbF-FRtAAAB]
+19.11.2025, 12:43:36 - INFO - /api/auth | POST | {"email":"kk@gmail.com","password":"kk"} | {}
+19.11.2025, 12:43:36 - INFO - User login:  | {"_id":"68cffa1ee68e1ea21bb4a403","email":"kk@gmail.com","username":"kk","fullname":"kk","imageUrl":"","isHost":false,"isAdmin":false,"likedHomes":["68bf3a7da4e092bac135ad56","68bf3a7da4e092bac135ad67","68bf3a7da4e092bac135ad66","68bf3a7da4e092bac135ad5e"],"createdAt":1758460446446}
+19.11.2025, 12:43:36 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: VT5VK0YAoBbF-FRtAAAB]
+19.11.2025, 12:43:41 - INFO - Socket disconnected [id: undefined]
+19.11.2025, 12:43:41 - INFO - New connected socket [id: T_Y5p_wzyu1V9vdQAAAD]
+19.11.2025, 12:43:41 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: T_Y5p_wzyu1V9vdQAAAD]
+19.11.2025, 12:43:42 - INFO - Setting socket.userId = 68cffa1ee68e1ea21bb4a403 for socket [id: T_Y5p_wzyu1V9vdQAAAD]
